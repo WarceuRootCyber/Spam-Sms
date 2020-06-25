@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Author : ☆Light_ID☆
+# Author : Light_ID
 # Team : WarceuRootCyber
 # ciee kang recode :v lokit lokit :*
 # jan di recode stah cape bikin nya >_<
