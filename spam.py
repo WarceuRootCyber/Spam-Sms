@@ -2,7 +2,7 @@
 # Author : ./Light-ID
 # Team : WarceuRootCyber
 # Naon dula deuleu ? Mau Recode ? >_<
-# Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
+# jan recode ya cape bikin nya :v
 
 M = '\033[1;31m'
 H = '\033[1;32m'
