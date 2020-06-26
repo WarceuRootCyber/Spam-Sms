@@ -1,8 +1,8 @@
 #!/usr/bin/python2
-# Author : Light_ID
+# Author : ./Light-ID
 # Team : WarceuRootCyber
-# ciee kang recode :v lokit lokit :*
-# jan di recode stah cape bikin nya >_<
+# Naon dula deuleu ? Mau Recode ? >_<
+# Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
 
 M = '\033[1;31m'
 H = '\033[1;32m'
@@ -38,7 +38,7 @@ try:
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
       | |                                          
-      |_|  '''+W+'Creator : ☆Light_ID☆')
+      |_|  '''+W+'Creator : ./Light-ID')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
@@ -225,12 +225,12 @@ try:
 
 			data = {
 			'requests_id' : '',
-			'first_name' : 'Light',
-			'last_name' : 'ID',
-			'gender' : '??',
-			'phone_number' : 6283876915082,
-			'birthday' : '1406-11-16',
-			'username' : 'lightid180@gmail.com',
+			'first_name' : 'Subscribe YT',
+			'last_name' : 'Jejak Cyber',
+			'gender' : 'male',
+			'phone_number' : Phone,
+			'birthday' : '0000-00-00',
+			'username' : 'YouTube@gmail.com',
 			'password' : 'Subscribe 1000x Ya Anying',
 			'agreeterms' : '1'
 			}
@@ -312,7 +312,7 @@ try:
 					pass
 				
 				print
-				print(C+'\t-------------- '+W+'OTW-Spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				MapClub(Phone, Amount)
 		
@@ -361,7 +361,7 @@ try:
 					pass
 				
 				print
-				print(C+'\t-------------- '+W+'Otw-Spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				Hooq(Phone, Amount)
 		
@@ -410,7 +410,7 @@ try:
 					pass
 				
 				print
-				print(C+'\t-------------- '+W+'Otw-Spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				HarVest(Phone, Amount)
 		
@@ -459,7 +459,7 @@ try:
 					pass
 				
 				print
-				print(C+'\t-------------- '+W+'Otw-spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				Olx(Phone, Amount)
 		
@@ -508,7 +508,7 @@ try:
 					pass
 				
 				print
-				print(C+'\t-------------- '+W+'Otw-spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				Tokped(Phone, Amount)
 		
@@ -557,7 +557,7 @@ try:
 					pass
 				
 				print
-				print(C+'\t-------------- '+W+'Otw-spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				AlfaMart(Phone, Amount)
 		
@@ -598,7 +598,7 @@ try:
 				sleep(2)
 				
 				print
-				print(C+'\t-------------- '+W+'Otw-spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				print(W+'JIKA TIDAK TERKIRIM, BERARTI SUDAH LIMIT !')
 				print
@@ -637,7 +637,7 @@ try:
 					pass
 				
 				print
-				print(C+'\t-------------- '+W+'Otw-spam-tod'+C+' --------------')
+				print(C+'\t-------------- '+W+'Starting'+C+' --------------')
 				print
 				print(C+'\t----------- '+W+'HOOQ 3X'+C+' -----------')
 				print
@@ -691,7 +691,7 @@ try:
 				sys.exit()
 		
 		elif PilihTools == '9':
-			os.system('xdg-open http://wa.me/6283876915082?text=Assalamualaikum mank :*')
+			os.system('xdg-open http://wa.me/6283876915082?text=assalamualaikum mamank :*')
 		
 		elif PilihTools == 'X' or PilihTools == 'x':
 			print
@@ -715,7 +715,7 @@ except ImportError:
 	os.system('clear')
 	
 if __name__ == '__main__':
-	print(C+'Subscribe YT'+W+' Follow fb gua tod :v !'+C+' :V')
+	print(C+'Follow FB'+W+' Aink Dlu Ya nyet !'+C+' :V')
 	sleep(2)
 	os.system('clear')
 	os.system('xdg-open https://www.facebook.com/ckasepgigir.kobong')
